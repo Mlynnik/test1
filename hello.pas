@@ -5,5 +5,5 @@
     11.16: 'Добрый день, мир!';
     17..22: 'Доброй ночи, мир!';
   end;
-  Print('Hello world!');
+  Print('Hello world2!');
 end.
